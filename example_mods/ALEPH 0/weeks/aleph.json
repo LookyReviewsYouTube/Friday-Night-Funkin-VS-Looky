@@ -1,0 +1,32 @@
+{
+	"storyName": "Aleph",
+	"difficulties": "Normal, Mania",
+	"hideFreeplay": false,
+	"weekBackground": "aleph",
+	"freeplayColor": [
+		999999999999999,
+		999999999999999,
+		999999999999999
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Aleph 0",
+			"icon-aleph",
+			[
+				999999999999999,
+				999999999999999,
+				999999999999999
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Aleph-0",
+	"hiddenUntilUnlocked": false
+}

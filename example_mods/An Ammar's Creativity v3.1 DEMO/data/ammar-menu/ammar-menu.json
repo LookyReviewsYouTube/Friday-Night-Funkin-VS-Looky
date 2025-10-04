@@ -1,0 +1,17 @@
+{
+	"song": {
+		"player1": "bf",
+		"gfVersion": "gf",
+		"notes": [],
+		"player2": "bf",
+		"player3": null,
+		"splashSkin": "noteSplashes",
+		"song": "ammar menu",
+		"needsVoices": false,
+		"arrowSkin": "",
+		"validScore": true,
+		"stage": "fakebg",
+		"bpm": 100,
+		"speed": 1.0
+	}
+}
